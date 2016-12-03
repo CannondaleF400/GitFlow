@@ -4,3 +4,4 @@ REM try again
 ECHO try try again
 ECHO try try try again
 ECHO try try try try again
+echo build > Products\build.s19
