@@ -1,6 +1,6 @@
 import subprocess
 
-result = subprocess.check_output("git diff --name-only", shell=True)
+result = subprocess.check_output("git diff --name-only develop", shell=True)
 result = str(result)
 print(".c" in result)
 print('.h' in result)
