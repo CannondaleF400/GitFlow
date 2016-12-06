@@ -12,4 +12,5 @@ echo %ver% > version.txt
 
 if exist Products rd /s /q Products
 mkdir Products
+echo %BUILD_NUMBER%
 echo build > Products\build%ver%.s19
