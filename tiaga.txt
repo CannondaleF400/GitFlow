@@ -2,3 +2,4 @@ test commit integration to taiga
 test commit to "in progress"
 try again
 try again
+use correct slug
