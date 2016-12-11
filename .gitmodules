@@ -1,4 +1,4 @@
 [submodule "Modules/Submodule"]
 	path = Modules/Submodule
 	url = https://github.com/CannondaleF400/Submodule.git
-	branch = v1.0.0
+	branch = 'First Release'
