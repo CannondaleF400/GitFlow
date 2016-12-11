@@ -1,4 +1,4 @@
 [submodule "Modules/Submodule"]
 	path = Modules/Submodule
 	url = https://github.com/CannondaleF400/Submodule.git
-	branch = 'branch1'
+	branch = "branch1"
